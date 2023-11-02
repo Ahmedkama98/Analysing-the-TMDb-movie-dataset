@@ -11,6 +11,7 @@
 ## Project Overview
 
 In this notebook, I'm trying to analyze the TMDb movie dataset to answer some questions I asked about it using some statistics and visualization methods and some tools like pandas, numpy, and matplotlib.
+![ع حثق](https://github.com/Ahmedkama98/Analysing-the-TMDb-movie-dataset/assets/73551238/f59f6f10-df45-415b-8d6f-8a8ee32e4c66)
 
 ## Questions to Answer
 
